@@ -1,0 +1,8 @@
+main package
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello World")
+    fmt.Println("Not Hello World")]
+}
