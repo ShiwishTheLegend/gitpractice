@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
     fmt.Println("Hello World")
-    Randamo texto from conflickt branch 1
+    This will not cause a conflict i promise
 }
